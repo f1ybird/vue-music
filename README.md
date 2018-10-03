@@ -13,10 +13,9 @@ cnpm run dev
 ```
 
 效果图
-
-![首页](https://github.com/f1ybird/vue-music/master/screenshot/home.png)
-![歌手](https://github.com/f1ybird/vue-music/master/screenshot/artists.png)
-![搜索](https://github.com/f1ybird/vue-music/master/screenshot/search.png)
+![首页](https://raw.githubusercontent.com/f1ybird/vue-music/master/src/assets/screenshot/home.png)
+![歌手](https://raw.githubusercontent.com/f1ybird/vue-music/master/src/assets/screenshot/artists.png)
+![搜索](https://raw.githubusercontent.com/f1ybird/vue-music/master/src/assets/screenshot/search.png)
 
 免费api
 - 豆瓣电影top250  http://api.douban.com/v2/movie/top250
